@@ -46,7 +46,7 @@ This is pretty good, but let's get the details.
 https://github.com/win1010525/Airportitlwm-kext
 ## My Hardware
 
-![My Hardware](https://DADOS-MAC/about.png)
+![](/DADOS-MAC/about.png)
 
 ***The dedicated graphics card Radeon 520 2gb Ram DDR5 does not work! Therefore, only the integrated***
 # Here´s the Link
