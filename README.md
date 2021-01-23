@@ -1,4 +1,4 @@
-# HACKINGTOSH DELL Inspiron 3583
+# HACKINGTOSH DELL Inspiron 3583 :alien:
 
 
 I recently decided that I needed a Mac, but the high costs of a Macbook were not accessible to me, so I decided to use my laptop and do a Hackingtosh.
@@ -12,17 +12,18 @@ Here I provide the link to the files used to create Hackingtosh on the Dell Insp
 - Clover_V25K_r5103.pkg
 - BalenaEtcher-Portable-1.5.114.exe (for windows x64)
 
-# Thanks!
+# Thanks!:clap::clap::clap:
 - @jkcoxson
-    https://github.com/jkcoxson/Inspiron-3583-Hackintosh
-Based on this project I managed to develop this project here.
+   -https://github.com/jkcoxson/Inspiron-3583-Hackintosh
+   -Based on this project I managed to develop this project here.
 
 - Gabriel de Pinho
- *** The tutorial is in PT-BR ***
-https://www.youtube.com/watch?v=pv0wgXOsj5s&t=396s
+ -**The tutorial is in PT-BR**
+  -https://www.youtube.com/watch?v=pv0wgXOsj5s&t=396s
+  
 - Curtis Gross
-*** The tutorial is In En***
-https://www.youtube.com/watch?v=TB7zS4A_1X4
+**The tutorial is In En**
+  -https://www.youtube.com/watch?v=TB7zS4A_1X4
 ## Issues
 This is pretty good, but let's get the details.
 - [x] Touchscreen
@@ -46,7 +47,7 @@ This is pretty good, but let's get the details.
 https://github.com/win1010525/Airportitlwm-kext
 ## My Hardware
 
-![](/DADOS-MAC/about.png)
+   ![](https://github.com/alvess09/Hackintosh-dell-3583/blob/main/about.png)
 
 ***The dedicated graphics card Radeon 520 2gb Ram DDR5 does not work! Therefore, only the integrated***
 # Here´s the Link
