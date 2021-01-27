@@ -51,4 +51,5 @@ https://github.com/win1010525/Airportitlwm-kext
 
 ***The dedicated graphics card Radeon 520 2gb Ram DDR5 does not work! Therefore, only the integrated***
 # Here´s the Link
-https://drive.google.com/drive/folders/1uk5Rzs5aYilePUoq1BX5owgKtSzCx2z1?usp=sharing
+https://bit.ly/2KRJrrD
+
